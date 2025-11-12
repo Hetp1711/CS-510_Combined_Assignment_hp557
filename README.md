@@ -1,6 +1,4 @@
-# CS-510 Combined Assignment (hp557)
-
-This repository contains brick puzzle assignments.  The project is implemented in Python and ships with example puzzle layouts and a `run.sh` helper script that wraps the main driver `sbp_Assignment_3.py`.
+#This repository contains brick puzzle assignments.  The project is implemented in Python and ships with example puzzle layouts and a `run.sh` helper script that wraps the main driver `sbp_Assignment_3.py`.
 
 ## Prerequisites
 

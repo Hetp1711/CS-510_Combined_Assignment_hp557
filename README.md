@@ -77,6 +77,6 @@ Refer to the docstrings and inline comments in `sbp_Assignment_3.py` for additio
 - **Permission denied for `run.sh`** – Make the script executable: `chmod +x run.sh`, or invoke it with `sh run.sh ...` as shown above.
 - **Input file errors** – Ensure you pass one of the provided `SBP-*.txt` files or follow their format when creating a new puzzle.
 
-## There is competition in assignment 3 module, I need help that how can I optimise this code so that so that the Total Node Search will be quick and fast in level 5,6,7.
+## There is competition in assignment 3 module, I want to optimise this code so that so that I can Improve Total Node Search and Time Consumption in level 5,6,7.
 
 Explore the solver by experimenting with different puzzle files, adjusting heuristic strategies inside `sbp_Assignment_3.py`, or extending the CLI with new commands.

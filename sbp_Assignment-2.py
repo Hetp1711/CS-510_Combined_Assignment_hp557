@@ -1,5 +1,4 @@
 #Student Name : Het Patel
-#Student ID : hp557@drexel.edu
 #Course: CS 510 Intro To AI (Assignment-2)
 
 import sys

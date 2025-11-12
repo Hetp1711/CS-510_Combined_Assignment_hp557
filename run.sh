@@ -1,7 +1,7 @@
 #!/bin/sh
 # Shell script to run the sliding brick puzzle solver.
 # This script mirrors the behaviour of the part one run.sh but
-# supports the additional commands introduced in part two.  It
+# supports the additional commands in both files. It
 # forwards all arguments to the Python driver script.
 
 if [ "$#" -eq 3 ]; then

@@ -1,5 +1,5 @@
 # Student Name : Het Patel (hp557)
-# Course: CS 510 Intro To AI (Assignment‑3)
+# Course: CS 510 Intro To AI
 
 from __future__ import annotations
 
